@@ -17,11 +17,13 @@
 <!-- Nampilin Ig Dan Linked -->
 
 <b>Socials</b>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joy-christian-barus-3912402b1/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joybarus_/)
 
 <!-- Nampilin Stats -->
 
 <b>My Stats</b>
+
 ![Statistik GitHub Jojooo4](https://github-readme-stats-eight-theta.vercel.app/api?username=Jojooo4&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jojooo4&layout=compact&theme=radical)
